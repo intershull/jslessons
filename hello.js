@@ -1,1 +1,1 @@
-﻿alert("hello world!");
+﻿alert("привет, мир!");
